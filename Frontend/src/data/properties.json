@@ -1,0 +1,48 @@
+[{
+  "Id":1,
+  "SellRent":1,
+  "Name":"Birla House",
+  "type":"Villa",
+  "image":"img1",
+  "Price":19000
+},
+{
+  "Id":2,
+  "SellRent":1,
+  "Name":"Khandelwal House",
+  "type":"Sadan",
+  "image":"img2",
+  "Price":12000
+},
+{
+  "Id":3,
+  "SellRent":1,
+  "Name":"Gulalkari House",
+  "type":"Mahaveer",
+  "image":"img3",
+  "Price":15000
+},
+{
+  "Id":4,
+  "SellRent":1,
+  "Name":"Hexagon House",
+  "type":"House",
+  "image":"img4",
+  "Price":17000
+},
+{
+  "Id":5,
+  "SellRent":2,
+  "Name":"Sam House",
+  "type":"Flat",
+  "image":"img5",
+  "Price":11000
+},
+{
+  "Id":6,
+  "SellRent":2,
+  "Name":"Mangla House",
+  "type":"Bungalow",
+  "image":"",
+  "Price":10000
+}]
